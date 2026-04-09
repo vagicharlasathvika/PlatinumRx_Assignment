@@ -212,4 +212,4 @@ Input  → "data analyst"    Output → "dat nlys"
 
 - **GitHub Repository:** https://github.com/vagicharlasathvika/PlatinumRx_Assignment
 - **Spreadsheet Link:** https://docs.google.com/spreadsheets/d/1jSYAooGKp7fOEjVgQxSEgqZ1F-fhDhjCPQOvZvVDJXE/edit?usp=sharing
-- **Screen Recording:** https://drive.google.com/yourlink
+- **Screen Recording:** https://drive.google.com/file/d/1GTUozH0Sr8JiGRP495qDHtLL09Ed2HXR/view?usp=sharing
